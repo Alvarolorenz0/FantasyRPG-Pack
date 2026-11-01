@@ -1,0 +1,174 @@
+{
+  "format_version": 2,
+  "items": {
+    "minecraft:iron_sword": [
+      {
+        "type": "definition",
+        "model": "fantasyrpg:emberfang",
+        "bedrock_identifier": "fantasyrpg:emberfang",
+        "display_name": "Emberfang, Taring Bara",
+        "bedrock_options": {
+          "icon": "fantasyrpg_emberfang",
+          "display_handheld": true,
+          "allow_offhand": true
+        }
+      }
+    ],
+    "minecraft:diamond_sword": [
+      {
+        "type": "definition",
+        "model": "fantasyrpg:frostbrand",
+        "bedrock_identifier": "fantasyrpg:frostbrand",
+        "display_name": "Frostbrand, Bilah Es Abadi",
+        "bedrock_options": {
+          "icon": "fantasyrpg_frostbrand",
+          "display_handheld": true,
+          "allow_offhand": true
+        }
+      }
+    ],
+    "minecraft:diamond_axe": [
+      {
+        "type": "definition",
+        "model": "fantasyrpg:stormcaller",
+        "bedrock_identifier": "fantasyrpg:stormcaller",
+        "display_name": "Stormcaller, Kapak Badai",
+        "bedrock_options": {
+          "icon": "fantasyrpg_stormcaller",
+          "display_handheld": true,
+          "allow_offhand": true
+        }
+      }
+    ],
+    "minecraft:stone_sword": [
+      {
+        "type": "definition",
+        "model": "fantasyrpg:shadowfang",
+        "bedrock_identifier": "fantasyrpg:shadowfang",
+        "display_name": "Shadowfang, Belati Bayangan",
+        "bedrock_options": {
+          "icon": "fantasyrpg_shadowfang",
+          "display_handheld": true,
+          "allow_offhand": true
+        }
+      }
+    ],
+    "minecraft:blaze_rod": [
+      {
+        "type": "definition",
+        "model": "fantasyrpg:arcane_staff",
+        "bedrock_identifier": "fantasyrpg:arcane_staff",
+        "display_name": "Tongkat Arkana",
+        "bedrock_options": {
+          "icon": "fantasyrpg_arcane_staff",
+          "display_handheld": true,
+          "allow_offhand": true
+        }
+      }
+    ],
+    "minecraft:golden_sword": [
+      {
+        "type": "definition",
+        "model": "fantasyrpg:dawnbreaker",
+        "bedrock_identifier": "fantasyrpg:dawnbreaker",
+        "display_name": "Dawnbreaker, Pedang Fajar Abadi",
+        "bedrock_options": {
+          "icon": "fantasyrpg_dawnbreaker",
+          "display_handheld": true,
+          "allow_offhand": true
+        }
+      }
+    ],
+    "minecraft:netherite_hoe": [
+      {
+        "type": "definition",
+        "model": "fantasyrpg:soulreaper",
+        "bedrock_identifier": "fantasyrpg:soulreaper",
+        "display_name": "Soulreaper, Sabit Penuai Jiwa",
+        "bedrock_options": {
+          "icon": "fantasyrpg_soulreaper",
+          "display_handheld": true,
+          "allow_offhand": true
+        }
+      }
+    ],
+    "minecraft:iron_axe": [
+      {
+        "type": "definition",
+        "model": "fantasyrpg:goblin_cleaver",
+        "bedrock_identifier": "fantasyrpg:goblin_cleaver",
+        "display_name": "Goblin Cleaver, Kapak Raja Goblin",
+        "bedrock_options": {
+          "icon": "fantasyrpg_goblin_cleaver",
+          "display_handheld": true,
+          "allow_offhand": true
+        }
+      }
+    ],
+    "minecraft:wooden_sword": [
+      {
+        "type": "definition",
+        "model": "fantasyrpg:venomfang",
+        "bedrock_identifier": "fantasyrpg:venomfang",
+        "display_name": "Venomfang, Taring Racun",
+        "bedrock_options": {
+          "icon": "fantasyrpg_venomfang",
+          "display_handheld": true,
+          "allow_offhand": true
+        }
+      }
+    ],
+    "minecraft:end_rod": [
+      {
+        "type": "definition",
+        "model": "fantasyrpg:soulbinder",
+        "bedrock_identifier": "fantasyrpg:soulbinder",
+        "display_name": "Soulbinder, Tongkat Raja Mati",
+        "bedrock_options": {
+          "icon": "fantasyrpg_soulbinder",
+          "display_handheld": true,
+          "allow_offhand": true
+        }
+      }
+    ],
+    "minecraft:mace": [
+      {
+        "type": "definition",
+        "model": "fantasyrpg:earthshaker",
+        "bedrock_identifier": "fantasyrpg:earthshaker",
+        "display_name": "Earthshaker, Palu Penggetar Bumi",
+        "bedrock_options": {
+          "icon": "fantasyrpg_earthshaker",
+          "display_handheld": true,
+          "allow_offhand": true
+        }
+      }
+    ],
+    "minecraft:netherite_axe": [
+      {
+        "type": "definition",
+        "model": "fantasyrpg:tempest_halberd",
+        "bedrock_identifier": "fantasyrpg:tempest_halberd",
+        "display_name": "Tempest Halberd, Tombak Badai",
+        "bedrock_options": {
+          "icon": "fantasyrpg_tempest_halberd",
+          "display_handheld": true,
+          "allow_offhand": true
+        }
+      }
+    ],
+    "minecraft:netherite_sword": [
+      {
+        "type": "definition",
+        "model": "fantasyrpg:voidrender",
+        "bedrock_identifier": "fantasyrpg:voidrender",
+        "display_name": "Voidrender, Pedang Penguasa Kehampaan",
+        "bedrock_options": {
+          "icon": "fantasyrpg_voidrender",
+          "display_handheld": true,
+          "allow_offhand": true
+        }
+      }
+    ]
+  }
+}
